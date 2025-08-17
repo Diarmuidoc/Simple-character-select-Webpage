@@ -1,3 +1,12 @@
+# A little bit about this.
+
+I created this project for a game tournament I was running and wanted to have a character select between everyone attending.
+For my version I used a tekken 3 loading screen in which I cut out the characters, the files will try to align them in the same way as that loading screen.
+To add characters, simply fill out the characters.js list, each one has an id, name to be displayed, selection image, and an image for when the cursor is hovering over them.
+
+The backgound file is named background.png, and I used pngs for all the characters.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
